@@ -1,0 +1,1 @@
+# Anomaly-detection-in-spatial-data-card
